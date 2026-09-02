@@ -1,4 +1,4 @@
-## 专业图表插件：tusimpleBI for Excel / WPS 👋
+## 专业图表插件：tusimpleBI for Excel / WPS 
 
 [![Excel 2010+](https://img.shields.io/badge/Excel-2010%2B-green)](http://www.tusimplebi.com) [![Windows 7+](https://img.shields.io/badge/Windows-7%2B-blue)](http://www.tusimplebi.com) [![WPS](https://img.shields.io/badge/WPS-Supported-orange)](http://www.tusimplebi.com)
 
