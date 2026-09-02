@@ -1,4 +1,4 @@
-##专业图表插件：tusimpleBI for Excel/WPS 👋
+## 专业图表插件：tusimpleBI for Excel/WPS 👋
 
 <!--
 **tusimpleBI/tusimpleBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
