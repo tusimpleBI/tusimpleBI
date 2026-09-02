@@ -1,4 +1,4 @@
-## 专业图表插件：tusimpleBI for Excel/WPS 👋
+## 专业图表插件：tusimpleBI for Excel / WPS 👋
 
 <!--
 **tusimpleBI/tusimpleBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-tusimpleBI 是一款专业的 Excel/WPS 商务图表绘制插件，由刘万祥老师团队设计开发，是刘老师专注 Excel 图表 10 多年经验的总结、提炼和固化，拥有超过150+项图表功能，傻瓜式一键出图，帮助用户轻松、高效地制作 Excel 所没有的高级图表。适合于数据分析师、咨询顾问、办公白领等人群，小白能够轻松上手，高手更能如虎添翼。 
+tusimpleBI 是一款专业的 Excel / WPS 商务图表绘制插件，由刘万祥老师团队设计开发，是刘老师专注 Excel 图表 10 多年经验的总结、提炼和固化，拥有超过 150+ 项图表功能，傻瓜式一键出图，帮助用户轻松、高效地制作 Excel 所没有的高级图表。适合于数据分析师、咨询顾问、办公白领等人群，小白能够轻松上手，高手更能如虎添翼。 
 
 官网下载地址：http://www.tusimplebi.com
 
