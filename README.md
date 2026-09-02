@@ -28,4 +28,4 @@ tusimpleBI 是一款专业的 Excel / WPS 商务图表绘制插件，由刘万�
 5.	练习包2025年：https://drive.weixin.qq.com/s?k=AH4AsAe6AAkV3vNk7Y 
 6.	练习包2024年：https://drive.weixin.qq.com/s?k=AH4AsAe6AAkXyASgx4  
 
-<img width="1280" height="720" alt="水平马赛克图1例，中国全球投资占比" src="https://github.com/user-attachments/assets/eb46c474-7008-4f6e-8844-88fedcddb6af" />
+<img width="1280" height="720" alt="水平马赛克图1例，中国全球投资占比" src="https://github.com/user-attachments/assets/5712a084-4c08-4c43-8030-de55e6e5bf58" />
